@@ -1,4 +1,4 @@
-##Homepage for a travel booking website.
+**Homepage for a travel booking website.
 
 Part of UDEMY's advanced CSS course - Built with Flexbox and Sass, multi-device responsive.
 
